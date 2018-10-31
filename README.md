@@ -1,4 +1,4 @@
 # Seedlings-Species-Classification-using-Image-Analytics
-classificaton of plants\n
-ie,. normal plat from weeds\n
-using keras VGG16 CNN model\n
+classificaton of plants<br />
+ie,. normal plat from weeds<br />
+using keras VGG16 CNN model<br />
